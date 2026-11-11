@@ -36,7 +36,3 @@ as objects with unique IDs.
 - **Encapsulation** (private data with controlled access)
 - **Composition / Aggregation** (User → Posts, Page → Posts, Post → Comments)
 - **Separation of concerns** — driver logic lives in `SocialNetworkApp`, not `main()`
-
-
-
-## Project Structure
